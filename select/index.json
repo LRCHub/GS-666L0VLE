@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "THOUSAND MILES (Official Video)",
+  "base_artist": "The Kid LAROI",
+  "createdAt": "2026-03-06T11:31:36.499292Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Thousand Miles",
+      "artist": "Tove Lo",
+      "has_synced": true,
+      "path": "select/01_Thousand_Miles_Tove_Lo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Thousand Miles",
+      "artist": "Vanessa Carlton",
+      "has_synced": true,
+      "path": "select/02_A_Thousand_Miles_Vanessa_Carlton.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Thousand Miles",
+      "artist": "Vanessa Carlton",
+      "has_synced": true,
+      "path": "select/03_A_Thousand_Miles_Vanessa_Carlton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Thousand Miles (Live Acoustic)",
+      "artist": "Vanessa Carlton",
+      "has_synced": true,
+      "path": "select/04_A_Thousand_Miles_(Live_Acoustic)_Vanessa_Carlton.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Two Thousand Miles",
+      "artist": "Tanlines",
+      "has_synced": true,
+      "path": "select/05_Two_Thousand_Miles_Tanlines.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Thousand Miles",
+      "artist": "Vanessa Carlton",
+      "has_synced": true,
+      "path": "select/06_A_Thousand_Miles_Vanessa_Carlton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Thousand Miles (Album Version)",
+      "artist": "Vanessa Carlton",
+      "has_synced": true,
+      "path": "select/07_A_Thousand_Miles_(Album_Version)_Vanessa_Carlton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Thousand Miles",
+      "artist": "Tove Lo",
+      "has_synced": true,
+      "path": "select/08_Thousand_Miles_Tove_Lo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Thousand Miles Away",
+      "artist": "Otis Redding",
+      "has_synced": true,
+      "path": "select/09_Thousand_Miles_Away_Otis_Redding.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Thousand Miles Away",
+      "artist": "Harry Nilsson",
+      "has_synced": false,
+      "path": "select/10_A_Thousand_Miles_Away_Harry_Nilsson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Thousand Miles (feat. Brandi Carlile)",
+      "artist": "Miley Cyrus",
+      "has_synced": true,
+      "path": "select/11_Thousand_Miles_(feat._Brandi_Carlile)_Miley_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Thousand Miles",
+      "artist": "Miley Cyrus",
+      "has_synced": true,
+      "path": "select/12_Thousand_Miles_Miley_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Thousand Miles from Nowhere",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/13_A_Thousand_Miles_from_Nowhere_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Thousand Miles from Nowhere (LP Version)",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/14_A_Thousand_Miles_from_Nowhere_(LP_Version)_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Thousand Miles From Nowhere - 2006 Remastered Version",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/15_A_Thousand_Miles_From_Nowhere_-_2006_Remastered_Version_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Thousand Miles from Nowhere (Remastered LP Version)",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/16_A_Thousand_Miles_from_Nowhere_(Remastered_LP_Version)_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "A Thousand Miles From Nowhere",
+      "artist": "DevilDriver",
+      "has_synced": false,
+      "path": "select/17_A_Thousand_Miles_From_Nowhere_DevilDriver.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Seven Thousand Miles for What",
+      "artist": "Of Mice & Men",
+      "has_synced": false,
+      "path": "select/18_Seven_Thousand_Miles_for_What_Of_Mice_&_Men.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thousand Miles",
+      "artist": "The Kid LAROI",
+      "has_synced": false,
+      "path": "select/pl_01_Thousand_Miles_The_Kid_LAROI.txt"
+    }
+  ]
+}
